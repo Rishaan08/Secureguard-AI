@@ -294,7 +294,7 @@ load_dotenv()
 
 Edit `chatbot.ipynb`, Cell 5:
 ```python
-SIMILARITY_THRESHOLD = 0.65  # Change this value
+SIMILARITY_THRESHOLD = 0.85  # Change this value
 ```
 
 Lower values = stricter matching (fewer false positives)
